@@ -70,3 +70,6 @@ body {
     color: #1a1a1a;
 
  }
+ #navbar li a:hover{
+    color: #088178;
+ }
