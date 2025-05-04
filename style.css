@@ -88,4 +88,6 @@ body {
 /* Home Page */
 #hero{
   background-image: url("products/hero4.png");
+  height: 90vh;
+  width: 100%;
 }
