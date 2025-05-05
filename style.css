@@ -106,4 +106,7 @@ body {
 }
 #hero button{
   background-image: url(products/button.png);
+  background-color: transparent;
+  color: #088178;
+  border: 0;
 }
