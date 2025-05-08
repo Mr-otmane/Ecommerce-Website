@@ -191,4 +191,8 @@ body {
   width: 100%;
   border-radius: 20px;
 }
+#product1 .pro .des{
+  text-align: start;
+  padding: 10px 0;
+}
 
