@@ -119,7 +119,7 @@ body {
   font-weight: 700;
   font-size: 15px;
 }
-#feature{
+#feature {
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -138,10 +138,9 @@ body {
 #feature .fe-box:hover {
   box-shadow: 10px 10px 54px rgba(70, 62, 221, 0.1);
 }
-#feature .fe-box img{
+#feature .fe-box img {
   width: 100%;
   margin-bottom: 10px;
-
 }
 
 #feature .fe-box h6 {
@@ -151,4 +150,19 @@ body {
   border-radius: 4px;
   color: #088178;
   background-color: #fddde4;
+}
+#feature .fe-box:nth-child(2) h6 {
+  background-color: #cdebbc;
+}
+#feature .fe-box:nth-child(3) h6 {
+  background-color: #d1e8f2;
+}
+#feature .fe-box:nth-child(4) h6 {
+  background-color: #cdd4f8;
+}
+#feature .fe-box:nth-child(5) h6 {
+  background-color: #f6dbf6;
+}
+#feature .fe-box:nth-child(6) h6 {
+  background-color: #fff2e5;
 }
