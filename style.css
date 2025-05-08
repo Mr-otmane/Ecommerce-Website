@@ -129,3 +129,7 @@ body {
   border-radius: 4px;
   margin: 15px 0;
 }
+#feature .fe-box:hover{
+  box-shadow: 20px 20px 34px rgba(0, 0, 0, 0.03);
+
+}
