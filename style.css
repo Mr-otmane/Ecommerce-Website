@@ -119,6 +119,11 @@ body {
   font-weight: 700;
   font-size: 15px;
 }
+#feature{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 
 #feature .fe-box {
   width: 180px;
