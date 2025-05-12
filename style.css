@@ -176,7 +176,7 @@ body {
   justify-content: space-between;
   padding-top: 20px;
   flex-wrap: wrap;
-  
+
 }
 
 #product1 .pro {
@@ -230,4 +230,13 @@ body {
   position: absolute;
   bottom: 20px;
   right: 10px;
+}
+
+#banner {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
 }
