@@ -277,7 +277,7 @@ body {
   align-items: center;
   text-align: center;
   background-image: url(banner/b17.jpg);
-  width: 100%;
+  min-width: 500px;
   height: 40vh;
   background-size: cover;
   background-position: center;
