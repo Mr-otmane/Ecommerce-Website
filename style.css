@@ -279,7 +279,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   
   background-image: url(banner/b17.jpg);
   min-width: 500px;
