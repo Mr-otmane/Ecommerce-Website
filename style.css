@@ -269,6 +269,11 @@ body {
   background-color: #088178;
   color: #fff;
 }
+#sm-banner{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
 
 #sm-banner .banner-box {
   display: flex;
