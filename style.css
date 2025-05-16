@@ -59,7 +59,7 @@ button .white {
   background-color: transparent;
 
   cursor: pointer;
-  border: none;
+  border: 1px solid #fff;
   outline: none;
   transition: 0.2s;
 }
