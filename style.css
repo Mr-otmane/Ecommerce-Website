@@ -270,7 +270,7 @@ body {
   color: #fff;
 }
 
-#sm-banner .banner-box{
+#sm-banner .banner-box {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -281,5 +281,4 @@ body {
   height: 50vh;
   background-size: cover;
   background-position: center;
-
 }
