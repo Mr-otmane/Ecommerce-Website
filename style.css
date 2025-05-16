@@ -51,6 +51,19 @@ button.normal {
   transition: 0.2s;
 }
 
+button .white {
+  font-size: 14px;
+  font-weight: 600;
+  padding: 15px 30px;
+  color: #000;
+  background-color: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  transition: 0.2s;
+}
+
 body {
   width: 100%;
 }
@@ -300,5 +313,6 @@ body {
 #sm-banner span {
   color: #fff;
   font-size: 14px;
-  font-weight: 800;
+  font-weight: 500;
+  padding-bottom: 15px;
 }
