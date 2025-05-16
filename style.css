@@ -287,10 +287,13 @@ body {
   background-position: center;
   padding: 30px;
 }
-#sm-banner h4{
+#sm-banner h4 {
   color: #fff;
   font-size: 20px;
   font-weight: 300;
-
-
+}
+#sm-banner h2 {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 800;
 }
