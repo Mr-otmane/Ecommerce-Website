@@ -269,7 +269,7 @@ body {
   background-color: #088178;
   color: #fff;
 }
-#sm-banner{
+#sm-banner {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -280,10 +280,10 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
-  
   background-image: url(banner/b17.jpg);
-  min-width: 500px;
+  min-width: 580px;
   height: 50vh;
   background-size: cover;
   background-position: center;
+  padding: 30px;
 }
