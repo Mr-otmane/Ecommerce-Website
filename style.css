@@ -301,9 +301,8 @@ body {
   padding: 30px;
 }
 
-#sm-banner .banner-box2{
+#sm-banner .banner-box2 {
   background-image: url(banner/b10.jpg);
-
 }
 #sm-banner h4 {
   color: #fff;
@@ -313,7 +312,7 @@ body {
 #sm-banner h2 {
   color: #fff;
   font-size: 20px;
-  font-weight: 800;
+  font-weight: 900;
 }
 #sm-banner span {
   color: #fff;
@@ -322,8 +321,7 @@ body {
   padding-bottom: 15px;
 }
 
-#sm-banner .banner-box:hover button{
+#sm-banner .banner-box:hover button {
   background: #088178;
   border: 1px solid #088178;
-
 }
