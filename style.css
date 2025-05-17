@@ -325,3 +325,16 @@ body {
   background: #088178;
   border: 1px solid #088178;
 }
+
+#banner3 .banner-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  background-image: url(banner/b17.jpg);
+  min-width: 580px;
+  height: 50vh;
+  background-size: cover;
+  background-position: center;
+  padding: 30px;
+}
