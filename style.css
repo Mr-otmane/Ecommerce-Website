@@ -336,7 +336,7 @@ body {
   height: 30vh;
   background-size: cover;
   background-position: center;
-  padding: 20px;
+  padding: 20px; 
   margin-bottom: 20px;
 }
 #banner3 h2{
@@ -345,7 +345,7 @@ body {
   font-size: 22px;
 }
 #banner3 h3{
-  color: #fff;
-  font-weight: 900;
-  font-size: 22px;
+  color: #ec544e;
+  font-weight: 800;
+  font-size: 15px;
 }
