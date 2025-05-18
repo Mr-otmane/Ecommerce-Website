@@ -325,6 +325,9 @@ body {
   background: #088178;
   border: 1px solid #088178;
 }
+#banner3{
+  display: flex;
+}
 
 #banner3 .banner-box{
   display: flex;
