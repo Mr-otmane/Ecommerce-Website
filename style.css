@@ -327,6 +327,9 @@ body {
 }
 #banner3{
   display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 0 80px;
 }
 
 #banner3 .banner-box{
