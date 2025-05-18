@@ -362,3 +362,9 @@ body {
   font-weight: 800;
   font-size: 15px;
 }
+#newsletter{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+}
