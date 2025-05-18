@@ -369,3 +369,16 @@ body {
   align-items: center;
   background-image: url(about/banner.png);
 }
+
+#newsletter h4{
+  font-size: 22px;
+  font-weight: 700;
+  color: #fff;
+
+}
+#newsletter p{
+  font-size: 14px;
+  font-weight: 600;
+  color: #818ea0;
+
+}
