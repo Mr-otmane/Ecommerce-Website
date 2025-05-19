@@ -477,5 +477,7 @@ footer .copyright {
     right: 0px;
     height: 100vh;
     width: 300px;
+    background-color: #E3E6F3;
+    box-shadow: 0 40px;
   }
 }
