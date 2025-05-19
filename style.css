@@ -435,5 +435,11 @@ footer p {
 footer a {
   font-size: 13px;
   text-decoration: none;
-  margin: 0 0 8px 0;
+  color: #222;
+  margin-bottom: 10px;
+}
+
+footer .follow{
+  margin-top: 20px;
+  
 }
