@@ -116,6 +116,11 @@ body {
   left: 20px;
 }
 
+#mobile {
+  display: flex;
+  align-items: center;
+}
+
 /* Home Page */
 #hero {
   background-image: url("products/hero4.png");
