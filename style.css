@@ -432,3 +432,8 @@ footer p {
   font-size: 13px;
   margin: 0 0 8px 0;
 }
+footer a {
+  font-size: 13px;
+  text-decoration: none;
+  margin: 0 0 8px 0;
+}
