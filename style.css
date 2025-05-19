@@ -566,8 +566,10 @@ footer .copyright {
     padding: 10px 30px;
   }
   #hero {
-    height: 70vh;
-    padding: 0 80px;
-    background-position: top 30% right 30%;
-}
+    padding: 0 20px;
+    background-position: 55%;
+  }
+  h2 {
+    font-size: 32px;
+  }
 }
