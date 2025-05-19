@@ -490,5 +490,9 @@ footer .copyright {
   #navbar li {
     margin-bottom: 25px;
   }
+  #mobile{
+    display: none;
+    align-items: center;
+  }
 }
 
