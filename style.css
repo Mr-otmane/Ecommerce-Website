@@ -439,7 +439,11 @@ footer a {
   margin-bottom: 10px;
 }
 
-footer .follow{
+footer .follow {
   margin-top: 20px;
-  
+}
+footer .follow i {
+  color: #465b52;
+  padding-right: 4px;
+  cursor: pointer;
 }
