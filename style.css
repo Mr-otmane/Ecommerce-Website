@@ -490,6 +490,13 @@ footer .copyright {
   padding: 14px;
 }
 
+#page-header h2,
+#page-header p{
+  color: #fff;
+}
+
+
+
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
