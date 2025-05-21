@@ -514,11 +514,12 @@ footer .copyright {
 }
 
 /* Single Product */
-#prodetails .single-pro-image {
+
+#prodetails .single-pro-image{
   width: 40%;
   margin-right: 50px;
+   
 }
-
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
