@@ -533,6 +533,16 @@ footer .copyright {
   cursor: pointer;
 }
 
+#prodetails .single-pro-details{
+    width: 50%;
+    padding-top: 30px;
+
+}
+
+
+
+
+
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
