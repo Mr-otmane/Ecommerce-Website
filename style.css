@@ -515,6 +515,10 @@ footer .copyright {
 
 /* Single Product */
 
+#prodetails{
+  display: flex;
+  margin-top: 20px;
+}
 #prodetails .single-pro-image {
   width: 40%;
   margin-right: 50px;
