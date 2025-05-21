@@ -545,6 +545,11 @@ footer .copyright {
 #prodetails .single-pro-details h2{
   padding: 26px;
 }
+#prodetails .single-pro-details select {
+  display: block;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+}
 
 
 
