@@ -564,6 +564,9 @@ footer .copyright {
   background: #088178;
   color: #fff;
 }
+#prodetails .single-pro-details button:hover {
+  background: #043935;
+}
 #prodetails .single-pro-details span {
   line-height: 25px;
 }
