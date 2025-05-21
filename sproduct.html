@@ -217,9 +217,12 @@
     </footer>
 
     <script>
-        var MainImg = document.getElementById("MainImg");
-        var smalling = document.getElementsByClassName("");
+      var MainImg = document.getElementById("MainImg");
+      var smalling = document.getElementsByClassName("small-img");
 
+      smalling[0].onclick = function () {
+        MainImg.src = smalling[0].src;
+      };
     </script>
 
     <script src="script.js"></script>
