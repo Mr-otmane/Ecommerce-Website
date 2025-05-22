@@ -638,9 +638,14 @@ footer .copyright {
   color: #c9cbce;
   z-index: -9;
 }
-
+/* About Page */
 #page-header.about-header {
   background-image: url(about/banner.png);
+}
+
+#about-head img{
+  width: 50%;
+  height: auto;
 }
 
 @media (max-width: 799px) {
