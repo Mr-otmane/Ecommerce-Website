@@ -620,8 +620,15 @@ footer .copyright {
   top: 4px;
   right: -60px;
 }
-#blog .blog-details a:hover{
+#blog .blog-details a:hover {
   color: #088178;
+}
+
+#blog .blog-details a:hover:after {
+  background-color: #088178;
+}
+#blog .blog-details h1{
+  position: absolute;
 }
 
 @media (max-width: 799px) {
