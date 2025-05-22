@@ -571,9 +571,10 @@ footer .copyright {
   line-height: 25px;
 }
 
-/* Blog-header */
-#page-header .blog-header {
-  background-image: url("blog/b19.jpg");
+/* Blog-Page */
+
+#page-header.blog-header {
+  background-image: url(blog/b19.jpg);
 }
 
 @media (max-width: 799px) {
