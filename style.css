@@ -607,9 +607,11 @@ footer .copyright {
   font-size: 11px;
   color: #000;
   font-weight: 700;
+  position: relative;
+  transition: 0.3s;
 }
 
-#blog .blog-details a::after{
+#blog .blog-details a::after {
   content: "";
   width: 50px;
   height: 1px;
@@ -617,6 +619,9 @@ footer .copyright {
   position: absolute;
   top: 4px;
   right: -60px;
+}
+#blog .blog-details a:hover{
+  color: #088178;
 }
 
 @media (max-width: 799px) {
