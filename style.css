@@ -677,6 +677,9 @@ footer .copyright {
   align-items: center;
   justify-content: space-between;
 }
+#contact-details .details{
+  width: 40%;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
