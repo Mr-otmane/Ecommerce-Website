@@ -671,6 +671,13 @@ footer .copyright {
   border-radius: 20px;
 }
 
+/* Contact Page */
+#contact-details{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
