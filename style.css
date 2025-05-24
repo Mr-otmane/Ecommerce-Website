@@ -706,6 +706,10 @@ footer .copyright {
   margin: 0;
   font-size: 14px;
 }
+#contact-details .map{
+  width: 55%;
+  height: 400px;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
