@@ -697,6 +697,9 @@ footer .copyright {
   display: flex;
   padding: 10px 0;
 }
+#contact-details .details li i{
+
+}
 
 @media (max-width: 799px) {
   .section-p1 {
