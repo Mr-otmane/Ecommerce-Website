@@ -683,6 +683,10 @@ footer .copyright {
 #contact-details .details span{
   font-size: 12px;
 }
+#contact-details .details h2{
+  font-size: 26px;
+}
+
 
 @media (max-width: 799px) {
   .section-p1 {
