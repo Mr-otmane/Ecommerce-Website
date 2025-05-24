@@ -710,6 +710,10 @@ footer .copyright {
   width: 55%;
   height: 400px;
 }
+#contact-details .map iframe{
+  width: 100%;
+  height: 100%;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
