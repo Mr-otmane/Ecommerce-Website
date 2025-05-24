@@ -680,6 +680,9 @@ footer .copyright {
 #contact-details .details{
   width: 40%;
 }
+#contact-details .details span{
+  font-size: 12px;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
