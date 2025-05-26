@@ -928,4 +928,8 @@ footer .copyright {
   #contact-details {
     flex-direction: column;
   }
+  #contact-details .details {
+    width: 100%;
+    margin-bottom: 30px;
+}
 }
