@@ -729,6 +729,10 @@ footer .copyright {
   margin-bottom: 20px;
   border: 1px solid #e1e1e1;
 }
+#form-details form button{
+  background-color: #088178;
+  color: #fff;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
