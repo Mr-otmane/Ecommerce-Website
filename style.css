@@ -1041,4 +1041,8 @@ footer .copyright {
     width: 100%;
     margin-bottom: 30px;
   }
+  /* Cart Page */
+  #cart-add {
+    flex-direction: column;
+  }
 }
