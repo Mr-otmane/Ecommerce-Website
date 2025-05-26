@@ -795,6 +795,11 @@ footer .copyright {
   width: 70px;
   padding: 10px 5px 10px 15px;
 }
+#cart table thead {
+  border: 1px solid #e2e9e1;
+  border-left: none;
+  border-right: none;
+}
 
 @media (max-width: 799px) {
   .section-p1 {
