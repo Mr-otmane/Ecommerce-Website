@@ -763,31 +763,31 @@ footer .copyright {
   color: #000;
 }
 
-
 /* Cart Page */
-#cart table{
- width: 100%;
- border-collapse: collapse;
- table-layout: fixed;
- white-space: nowrap;
+#cart table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  white-space: nowrap;
 }
-#cart table img{
+#cart table img {
   width: 70px;
 }
-#cart table td:nth-child(1){
+#cart table td:nth-child(1) {
   width: 100px;
   text-align: center;
-
 }
-#cart table td:nth-child(2){
+#cart table td:nth-child(2) {
   width: 150px;
   text-align: center;
 }
-#cart table td:nth-child(3){
+#cart table td:nth-child(3) {
   width: 250px;
   text-align: center;
 }
-#cart table td:nth-child(4){
+#cart table td:nth-child(4),
+#cart table td:nth-child(5),
+#cart table td:nth-child(6) {
   width: 150px;
   text-align: center;
 }
