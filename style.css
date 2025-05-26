@@ -780,7 +780,11 @@ footer .copyright {
 
 }
 #cart table td:nth-child(2){
-  width: 100px;
+  width: 150px;
+  text-align: center;
+}
+#cart table td:nth-child(3){
+  width: 250px;
   text-align: center;
 }
 
