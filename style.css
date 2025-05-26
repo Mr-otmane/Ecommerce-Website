@@ -1045,4 +1045,8 @@ footer .copyright {
   #cart-add {
     flex-direction: column;
   }
+  #coupon {
+    width: 100%;
+    
+  }
 }
