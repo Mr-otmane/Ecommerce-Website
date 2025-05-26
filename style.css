@@ -808,8 +808,11 @@ footer .copyright {
 }
 #cart table tbody tr td{
   padding-top: 15px ;
-
 }
+#cart table tbody  td{
+  font-size: 13px;
+}
+
 
 @media (max-width: 799px) {
   .section-p1 {
