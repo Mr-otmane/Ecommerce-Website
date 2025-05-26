@@ -800,23 +800,31 @@ footer .copyright {
   border-left: none;
   border-right: none;
 }
-#cart table thead td{
+#cart table thead td {
   font-weight: 700;
   text-transform: uppercase;
   font-size: 13px;
   padding: 18px 0;
 }
-#cart table tbody tr td{
-  padding-top: 15px ;
+#cart table tbody tr td {
+  padding-top: 15px;
 }
-#cart table tbody  td{
+#cart table tbody td {
   font-size: 13px;
 }
 
-#cart-add{
+#cart-add {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
-
+#coupon {
+  width: 50%;
+  margin-bottom: 30px;
+}
+#coupon h3{
+  
+}
 
 @media (max-width: 799px) {
   .section-p1 {
