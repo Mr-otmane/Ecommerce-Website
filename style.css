@@ -735,6 +735,7 @@ footer .copyright {
 }
 #form-details .peaple div{
   padding-bottom: 25px;
+  display: flex;
 }
 #form-details .peaple div img{
   width: 65px;
@@ -751,6 +752,7 @@ footer .copyright {
   display: block;
   font-size: 16px;
   font-weight: 600;
+  color: #000;
 }
 
 
