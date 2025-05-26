@@ -813,6 +813,10 @@ footer .copyright {
   font-size: 13px;
 }
 
+#cart-add{
+  display: flex;
+}
+
 
 @media (max-width: 799px) {
   .section-p1 {
