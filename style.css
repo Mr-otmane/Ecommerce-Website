@@ -822,8 +822,12 @@ footer .copyright {
   width: 50%;
   margin-bottom: 30px;
 }
-#coupon h3{
-  
+#coupon h3 {
+  padding-bottom: 15px;
+}
+#coupon input {
+  padding: 10px 20px;
+  outline: none;
 }
 
 @media (max-width: 799px) {
