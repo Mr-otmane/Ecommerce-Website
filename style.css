@@ -764,6 +764,9 @@ footer .copyright {
 }
 
 /* Cart Page */
+#cart {
+  overflow-x: auto;
+}
 #cart table {
   width: 100%;
   border-collapse: collapse;
@@ -834,7 +837,7 @@ footer .copyright {
   border: 1px solid #e2e9e1;
 }
 #coupon button,
-#subtotal button{
+#subtotal button {
   background-color: #088178;
   color: #fff;
   padding: 12px 20px;
