@@ -763,6 +763,14 @@ footer .copyright {
   color: #000;
 }
 
+
+/* Cart Page */
+#cart table{
+ width: 100%;
+ border-collapse: collapse;
+}
+
+
 @media (max-width: 799px) {
   .section-p1 {
     padding: 40px 40px;
