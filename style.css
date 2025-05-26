@@ -733,6 +733,13 @@ footer .copyright {
   background-color: #088178;
   color: #fff;
 }
+#form-details .peaple div{
+  padding-bottom: 25px;
+}
+#form-details .peaple div img{
+  width: 65px;
+}
+
 
 @media (max-width: 799px) {
   .section-p1 {
