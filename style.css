@@ -742,6 +742,10 @@ footer .copyright {
   object-fit: cover;
   margin-right: 15px;
 }
+#form-details .peaple div p{
+  margin: 0;
+  font-size: 13px;
+}
 
 
 @media (max-width: 799px) {
