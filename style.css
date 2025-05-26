@@ -745,6 +745,12 @@ footer .copyright {
 #form-details .peaple div p{
   margin: 0;
   font-size: 13px;
+  line-height: 25px;
+}
+#form-details .peaple div p span{
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
 }
 
 
