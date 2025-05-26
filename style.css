@@ -849,11 +849,10 @@ footer .copyright {
 
   /* Contact Page */
   #form-details {
-    display: flex;
-    justify-content: space-between;
-    margin: 30px;
-    padding: 80px;
-    border: 1px solid #e1e1e1;
+    padding: 40px;
+  }
+  #form-details form {
+    width: 50%;
   }
 }
 
@@ -923,5 +922,10 @@ footer .copyright {
   }
   #about-app .video {
     width: 100%;
+  }
+
+  /* Contact Page */
+  #contact-details {
+    flex-direction: column;
   }
 }
