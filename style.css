@@ -846,6 +846,15 @@ footer .copyright {
   #newsletter .form {
     width: 70%;
   }
+
+  /* Contact Page */
+  #form-details {
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    padding: 80px;
+    border: 1px solid #e1e1e1;
+  }
 }
 
 @media (max-width: 477px) {
