@@ -822,7 +822,8 @@ footer .copyright {
   width: 50%;
   margin-bottom: 30px;
 }
-#coupon h3, #subtotal h3 {
+#coupon h3,
+#subtotal h3 {
   padding-bottom: 15px;
 }
 #coupon input {
@@ -832,7 +833,8 @@ footer .copyright {
   margin-right: 10px;
   border: 1px solid #e2e9e1;
 }
-#coupon button {
+#coupon button,
+#subtotal button{
   background-color: #088178;
   color: #fff;
   padding: 12px 20px;
